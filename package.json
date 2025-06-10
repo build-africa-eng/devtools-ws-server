@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "websocket-server.js",
   "dependencies": {
-    "ws": "^8.17.0"
+    "ws": "^8.18.2"
   },
   "scripts": {
     "start": "node websocket-server.js"
